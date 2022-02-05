@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FinTech.iml" filepath="$PROJECT_DIR$/.idea/FinTech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git-github-fundamentals-Thpri19/.idea/git-github-fundamentals-Thpri19.iml" filepath="$PROJECT_DIR$/../git-github-fundamentals-Thpri19/.idea/git-github-fundamentals-Thpri19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quandl-Thpri19/.idea/quandl-Thpri19.iml" filepath="$PROJECT_DIR$/../quandl-Thpri19/.idea/quandl-Thpri19.iml" />
     </modules>
   </component>
 </project>
